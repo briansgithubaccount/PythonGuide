@@ -13,6 +13,8 @@ This document tries to bridge the gap between an academic and professional envir
 ## Caveats
 This document is written from my point of view - and I am not a legendary coder, nor do I have familiarility with the outside a very specific scope of the area where I work. This document will focus on Python for Data Science in a Windows environment, although many principles will apply, or can be adapted to other environments.
 
+This is a learning process for me too. Most of the points that I bring up, I am guilty of and many of the examples given are from my personal experience. Much of this I learned first hand, building a team and watching things break over and over again until somebody beat enough sense into us to work in a more efficient and effective manner.
+
 ## Guidelines
 
 ### Version Control
@@ -42,3 +44,7 @@ This document is written from my point of view - and I am not a legendary coder,
 * No heroes
 * Responsibilities of a senior
 
+## Other Resources
+* The Goal
+* Phoenix Project
+* Dev Ops Handbook
