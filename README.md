@@ -18,6 +18,8 @@ This document tries to bridge the gap between an academic and professional envir
 
 ### Testing
 
+### Version Control
+
 ### Habits and Behaviours
 
 #### Communication
