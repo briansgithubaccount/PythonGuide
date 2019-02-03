@@ -11,18 +11,34 @@ It's great to have a legendary 10x coder who is able to do everything better tha
 This document tries to bridge the gap between an academic and professional environments and provide guidelines to help new professionals adapt to a team-based way of working.
 
 ## Caveats
+This document is written from my point of view - and I am not a legendary coder, nor do I have familiarility with the outside a very specific scope of the area where I work. This document will focus on Python for Data Science in a Windows environment, although many principles will apply, or can be adapted to other environments.
 
 ## Guidelines
 
-### Virtual Environments
+### Version Control
+* Why? Why not just used shared drives
+* Merging Code
+* Git vs Perforce
+* Gitlab
 
 ### Testing
+* Why? What value does it bring?
 
-### Version Control
+### Virtual Environments
+* Use Them (why?)
+* Fragmentation of Environment
+* Conda
 
-### Habits and Behaviours
+### Communication
 
-#### Communication
+#### Project Management
 
+#### Communicating with the Business
+* Clear and repeat back
 
+#### Priority Management
+
+#### Team Management
+* No heroes
+* Responsibilities of a senior
 
